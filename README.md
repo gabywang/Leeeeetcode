@@ -1,2 +1,2 @@
 # Leeeeetcode
-preparing for the interview
+Preparing for the interview using Python.
